@@ -1,0 +1,248 @@
+img{
+    background-color: antiquewhite;
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    left: 43.5%;
+    border-radius: 20px;
+
+}
+
+body{
+    background-image: url("https://png.pngtree.com/background/20210715/original/pngtree-black-geometric-colorful-background-picture-image_1285938.jpg");
+}
+
+h1{
+    color: orange;
+    position: absolute;
+    top: 33%;
+    left: 41%;
+    font-size: 60px;
+    text-shadow: 0 0 10px lightpink, 0 0 20px pink, 0 0 30px darkorchid;
+
+}
+
+h3{
+    color: yellow;
+    position: absolute;
+    left: 43%;
+    top: 50%;
+    font-size: 40px;
+}
+
+#PlayButton{
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 72%;
+    font-size: 25px;
+}
+
+#Addition{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 30%;
+    font-size: 25px;
+}
+
+#Subtraction{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 42%;
+    font-size: 25px;
+}
+
+#Division{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 54%;
+    font-size: 25px;
+}
+
+#Multiplication{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 66%;
+    font-size: 25px;
+}
+
+
+#Question{
+    display: none;
+    color: orange;
+    position: absolute;
+    left: 39%;
+    top: 23.5%;
+    font-size: 40px;}
+
+
+#option1{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 40%;
+    font-size: 25px;
+}
+
+#option2{
+   display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 52%;
+    font-size: 25px;
+} 
+
+#option3{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 64%;
+    font-size: 25px;
+}
+
+#option4{
+   display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 38.5%;
+    top: 76%;
+    font-size: 25px; 
+}
+
+#option1:hover,
+#option2:hover,
+#option3:hover,
+#option4:hover {
+    background-color: darkkhaki;
+}
+
+#Addition:hover,#Subtraction:hover,#Division:hover,#Multiplication:hover, #tryAgainButton:hover,#homePage:hover,#PlayButton:hover{
+    background-color: darkkhaki;
+}
+
+
+#correctAnswer{
+    display: none;
+    color: orange;
+    position: absolute;
+    left: 35.5%;
+    top: 80%;
+    font-size: 40px;
+}
+
+#wrongAnswer{
+    display: none;
+    color: orange;
+    position: absolute;
+    left: 35.5%;
+    top: 80%;
+    font-size: 40px;
+}
+
+#tryAgainButton{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 100px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 68%;
+    top: 87%;
+    font-size: 15px; 
+}
+
+
+#homePage{
+    display: none;
+    background-color: orange;
+    color: bisque;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    width: 300px;
+    height: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 68%;
+    top: 87%;
+    font-size: 15px; 
+}
+
